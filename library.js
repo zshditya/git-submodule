@@ -5,3 +5,7 @@ function sayHello(name) {
 function helloWorld() {
     return "Hello world";
 }
+
+function sum(a, b) {
+    return a + b;
+}
